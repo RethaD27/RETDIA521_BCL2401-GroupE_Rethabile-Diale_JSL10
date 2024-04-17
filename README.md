@@ -8,7 +8,13 @@ In this room, the challenge is to find the most recent book from a JSON library.
 ## Room 2: The Set Chamber
 In this room, the challenge is to find common concepts between JavaScript and React. Two sets of concepts are defined, one for JavaScript and one for React. Clicking the "Find Common Concepts" button will identify and display the common concepts between the two sets.
 
-## Romm 3: The Asynchronous Labyrinth
+## Room 3: The Asynchronous Labyrinth
 In this room, the challenge is to navigate through a labyrinth asynchronously. Clicking the "Navigate the Labyrinth" button will fetch data from data from aJSON file containing directions. The directions will be displayed one by one with a delay of 1 second each, simulating navigation through the labyrinth. Once navigation is complete, a congratulatory message will be displayed.
 
 
+## Files:
+* index.html
+* styles.css
+* escapeVanillaJS.js
+* books.json
+* directions.json
