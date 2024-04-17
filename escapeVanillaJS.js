@@ -25,12 +25,12 @@ document.addEventListener("DOMContentLoaded", () => {
         navigateLabyrinth(directions);
     // 🪲 Bug: Incorrect method
     document.getElementById("room3Result").textContent = message;
-                    });
-            });
+      });
+    });
 
 function findMostRecentBook(books) {
     // 🪲 Bug: Logic error
-    return books.reduce((mostRecent, book) => new Date(book.published) < new Date(mostRecent.published) ? book : mostRecent);
+    return books.reduce((mostRecent, book) => { const bookDate = new Date(book.published) < new Date(mostRecent.published) ? book : mostRecent);
 }
 
 function findIntersection(setA, setB) {
