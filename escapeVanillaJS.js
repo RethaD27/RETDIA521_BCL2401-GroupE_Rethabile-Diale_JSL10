@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const response = await fetch('directions.json'); const directions = await response.json(); const message = await
         navigateLabyrinth(directions);
     // 🪲 Bug: Incorrect method
-    document.getElementById("room3Result").innerHTML = message;
+    document.getElementById("room3Result").textContent = message;
                     });
             });
 
