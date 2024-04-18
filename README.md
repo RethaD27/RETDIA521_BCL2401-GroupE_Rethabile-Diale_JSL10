@@ -18,3 +18,15 @@ In this room, the challenge is to navigate through a labyrinth asynchronously. C
 * escapeVanillaJS.js
 * books.json
 * directions.json
+
+
+## Reflections
+The "Escape VanillaJS Challenge" was an interesting exercise in JavaScript programming. It provided pactice in using Fetch API to fetch data from data from JSON files, manipulating arrays and sets, and working with asynchronous functions.
+
+Room 1 challenge was to find the most recent book from a JSON library by comparing publication dates. Room 2 required finding common concepts between two sets, which was achieved using set operations. Room 3 introduced asynchronous programming by navigating through a labyrinth with delayed steps.
+
+## My Thoughts:
+* The concept of structuring JavaScript tasks as escape rooms is pretty inventive, in my opinion. It makes learning more exciting and memorable by bringing a sense of adventure and excitement to it.
+* I like how the challenges are set up so that they get harder as we move through the rooms and this strengthens my grasp of JavaScript fundamentals.
+
+Overall, this challenge helped better my understanding of core JavaScript concepts and provided valuable experience in solving practical problems using JavaScript.
