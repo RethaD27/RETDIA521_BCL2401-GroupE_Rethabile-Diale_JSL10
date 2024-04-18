@@ -9,7 +9,7 @@ In this room, the challenge is to find the most recent book from a JSON library.
 In this room, the challenge is to find common concepts between JavaScript and React. Two sets of concepts are defined, one for JavaScript and one for React. Clicking the "Find Common Concepts" button will identify and display the common concepts between the two sets.
 
 ## Room 3: The Asynchronous Labyrinth
-In this room, the challenge is to navigate through a labyrinth asynchronously. Clicking the "Navigate the Labyrinth" button will fetch data from data from aJSON file containing directions. The directions will be displayed one by one with a delay of 1 second each, simulating navigation through the labyrinth. Once navigation is complete, a congratulatory message will be displayed.
+In this room, the challenge is to navigate through a labyrinth asynchronously. Clicking the "Navigate the Labyrinth" button will fetch data from data from a JSON file containing directions. The directions will be displayed one by one with a delay of 1 second each, simulating navigation through the labyrinth. Once navigation is complete, a congratulatory message will be displayed.
 
 
 ## Files:
@@ -21,7 +21,7 @@ In this room, the challenge is to navigate through a labyrinth asynchronously. C
 
 
 ## Reflections
-The "Escape VanillaJS Challenge" was an interesting exercise in JavaScript programming. It provided pactice in using Fetch API to fetch data from data from JSON files, manipulating arrays and sets, and working with asynchronous functions.
+The "Escape Vanilla JS Challenge" was an interesting exercise in JavaScript programming. It provided pactice in using Fetch API to fetch data from data from JSON files, manipulating arrays and sets, and working with asynchronous functions.
 
 Room 1 challenge was to find the most recent book from a JSON library by comparing publication dates. Room 2 required finding common concepts between two sets, which was achieved using set operations. Room 3 introduced asynchronous programming by navigating through a labyrinth with delayed steps.
 
